@@ -72,7 +72,18 @@ hr {
 	height: 2px; 
 	width:90%;
 }
+.name{
+	
+	margin-top: 50px;
+    margin-left: 20px;
 
+}
+.na{
+	margin-top: 50px;
+	margin-left: 20px;
+	padding-left: 5px;
+	
+}
 #name{
 	background-image: url(книга21-2.png) ;
 	width:1501px;
